@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I`m Lucas Bezerra 👋
 
-<!--
-**Lucasbeze/Lucasbeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Current stack
+-⚡️  Main language: `Javascript`
+- 📡 Backend: `Nodejs`
+- 🎉 Frontent: `Reactjs`, `HTML5`, `CSS3`, `Javascript`
+- 🎨 Layout Design: `Figma`
+- 📦️ Version code control: `Git  & Github`
+- 🔧 Tools: `VsCode`, `Markdown`
+- 🌐 I'm mostly active withim the `Rocketseat Community`
+
+#### Contacts
+- 📬 Email : lucas-beze_@hotmail.com
+- 👤 Linkedin: https://www.linkedin.com/in/lucas-bezerra-b99ab014b/
